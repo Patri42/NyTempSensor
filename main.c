@@ -100,6 +100,7 @@ int main(){
     //
     // printf("%.2f\n", celsius);
     //HEJA DANMARK!!
+    //Lite MERA SMÖRREBRÖD
 		_delay_ms(1000);
 	}
 	return 0;
