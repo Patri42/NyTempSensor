@@ -7,7 +7,7 @@
 #include <stdbool.h>
 
 #define PINNE_A0 0
-
+//sätter en commentar här och du ska se den
 
 #define BIT_SET(a, b) ((a) |= (1ULL << (b)))
 #define BIT_CLEAR(a,b) ((a) &= ~(1ULL<<(b)))
