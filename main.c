@@ -97,6 +97,7 @@ int main(){
 		printf("%s\n", ftos(txt,3,2,celsius));
     //
     // printf("%.2f\n", celsius);
+    //HEJA DANMARK!!
 		_delay_ms(1000);
 	}
 	return 0;
