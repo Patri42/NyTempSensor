@@ -94,7 +94,7 @@ int main(){
 
 
 		char txt[30];
-		printf("%s\n", ftos(txt,3,2,celsius));
+		printf("%s\n", ftos(txt,2,2,celsius));
     //
     // printf("%.2f\n", celsius);
     //HEJA DANMARK!!
